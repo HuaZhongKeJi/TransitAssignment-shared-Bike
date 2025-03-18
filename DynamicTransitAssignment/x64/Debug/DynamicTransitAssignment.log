@@ -1,0 +1,112 @@
+﻿  stdafx.cpp
+D:\library\eigen-3.4.0\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\library\eigen-3.4.0\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\library\eigen-3.4.0\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CTM.cpp
+D:\project\DynamicTransitAssignment - JX\CTM.cpp(35,55): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\project\DynamicTransitAssignment - JX\CTM.cpp(36,52): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\project\DynamicTransitAssignment - JX\CTM.cpp(45,35): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\DynamicTransitAssignment - JX\CTM.cpp(72,34): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\DynamicTransitAssignment - JX\CTM.cpp(288,18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\DynamicTransitAssignment - JX\CTM.cpp(323,41): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\DynamicTransitAssignment - JX\CTM.cpp(511,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\DynamicTransitAssignment - JX\CTM.cpp(573,36): warning C4244: “=”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+  DynamicTransitAssignment.cpp
+D:\project\DynamicTransitAssignment - JX\DynamicTransitAssignment.cpp(74,23): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“unsigned int”，可能丢失数据
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+D:\project\DynamicTransitAssignment - JX\DynamicTransitAssignment.cpp(75,23): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“unsigned int”，可能丢失数据
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+D:\project\DynamicTransitAssignment - JX\DynamicTransitAssignment.cpp(85,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\DynamicTransitAssignment - JX\DynamicTransitAssignment.cpp(127,11): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+D:\project\DynamicTransitAssignment - JX\DynamicTransitAssignment.cpp(651,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\DynamicTransitAssignment - JX\DynamicTransitAssignment.cpp(675,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\DynamicTransitAssignment - JX\DynamicTransitAssignment.cpp(676,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\DynamicTransitAssignment - JX\DynamicTransitAssignment.cpp(691,18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\DynamicTransitAssignment - JX\DynamicTransitAssignment.cpp(700,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\DynamicTransitAssignment - JX\DynamicTransitAssignment.cpp(701,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\DynamicTransitAssignment - JX\DynamicTransitAssignment.cpp(715,20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\DynamicTransitAssignment - JX\DynamicTransitAssignment.cpp(2509,24): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\DynamicTransitAssignment - JX\DynamicTransitAssignment.cpp(2567,56): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\project\DynamicTransitAssignment - JX\DynamicTransitAssignment.cpp(2616,75): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\DynamicTransitAssignment - JX\DynamicTransitAssignment.cpp(2645,75): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\DynamicTransitAssignment - JX\DynamicTransitAssignment.cpp(2674,75): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\DynamicTransitAssignment - JX\DynamicTransitAssignment.cpp(2702,75): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\DynamicTransitAssignment - JX\DynamicTransitAssignment.cpp(2731,75): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\DynamicTransitAssignment - JX\DynamicTransitAssignment.cpp(2759,75): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\DynamicTransitAssignment - JX\DynamicTransitAssignment.cpp(2918,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\DynamicTransitAssignment - JX\DynamicTransitAssignment.cpp(3084,53): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\DynamicTransitAssignment - JX\DynamicTransitAssignment.cpp(3167,56): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\DynamicTransitAssignment - JX\DynamicTransitAssignment.cpp(3286,15): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+D:\project\DynamicTransitAssignment - JX\DynamicTransitAssignment.cpp(3304,15): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+D:\project\DynamicTransitAssignment - JX\DynamicTransitAssignment.cpp(3332,16): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+D:\project\DynamicTransitAssignment - JX\DynamicTransitAssignment.cpp(3451,17): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\DynamicTransitAssignment - JX\DynamicTransitAssignment.cpp(3469,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\DynamicTransitAssignment - JX\DynamicTransitAssignment.cpp(3496,25): warning C4305: “初始化”: 从“__int64”到“double”截断
+D:\project\DynamicTransitAssignment - JX\DynamicTransitAssignment.cpp(48,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\DynamicTransitAssignment - JX\DynamicTransitAssignment.cpp(3405,34): message : 查看对正在编译的函数 模板 实例化“std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>> MatrixT<double>(std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>>)”的引用
+D:\project\DynamicTransitAssignment - JX\DynamicTransitAssignment.cpp(49,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\DynamicTransitAssignment - JX\DynamicTransitAssignment.cpp(28,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\DynamicTransitAssignment - JX\DynamicTransitAssignment.cpp(3407,35): message : 查看对正在编译的函数 模板 实例化“std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>> MatrixMultiply<double>(std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>>,std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>>)”的引用
+D:\project\DynamicTransitAssignment - JX\DynamicTransitAssignment.cpp(29,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\DynamicTransitAssignment - JX\DynamicTransitAssignment.cpp(30,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  MapSupNtw.cpp
+D:\project\DynamicTransitAssignment - JX\MapSupNtw.cpp(96,28): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  passengerOD.cpp
+  TransitNetworkLoading.cpp
+D:\project\DynamicTransitAssignment - JX\TransitNetworkLoading.cpp(142,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\DynamicTransitAssignment - JX\TransitNetworkLoading.cpp(184,41): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\project\DynamicTransitAssignment - JX\TransitNetworkLoading.cpp(212,39): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\project\DynamicTransitAssignment - JX\TransitNetworkLoading.cpp(275,41): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\project\DynamicTransitAssignment - JX\TransitNetworkLoading.cpp(304,39): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\project\DynamicTransitAssignment - JX\TransitNetworkLoading.cpp(346,40): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\project\DynamicTransitAssignment - JX\TransitNetworkLoading.cpp(359,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\DynamicTransitAssignment - JX\TransitNetworkLoading.cpp(438,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\DynamicTransitAssignment - JX\TransitNetworkLoading.cpp(445,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\DynamicTransitAssignment - JX\TransitNetworkLoading.cpp(482,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\DynamicTransitAssignment - JX\TransitNetworkLoading.cpp(517,35): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\project\DynamicTransitAssignment - JX\TransitNetworkLoading.cpp(518,36): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\project\DynamicTransitAssignment - JX\TransitNetworkLoading.cpp(572,33): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\DynamicTransitAssignment - JX\TransitNetworkLoading.cpp(631,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\DynamicTransitAssignment - JX\TransitNetworkLoading.cpp(640,28): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\DynamicTransitAssignment - JX\TransitNetworkLoading.cpp(662,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\DynamicTransitAssignment - JX\TransitNetworkLoading.cpp(2064,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+LINK : fatal error LNK1104: 无法打开文件“mclmcrrt.lib”
