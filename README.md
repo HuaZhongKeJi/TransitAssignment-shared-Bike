@@ -1,4 +1,4 @@
-# TransitAssignment-shared-Bike
-考虑共享单车的动态共交通分配
-本项目提供一种，考虑共享单车的动态公共交通流分配算法；
-可以用来分析乘客在一个具有公交，地铁，以及共享单车的公共交通网络中乘客的出行线路。
+# MMDTA-BS
+Multi-modal dynamic transit assignment incorporating bike-sharing
+This project provides a dynamic transit assignment algorithm considering shared bikes.
+It can be used to analyze the travel paths of passengers in a public transit network with buses, subways, and shared bikes, and calculate various transit modes of passenger flow to help improve the operation of public transit.
