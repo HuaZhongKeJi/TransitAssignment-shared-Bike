@@ -1,8 +1,0 @@
-LIBRARY myquadprog
-EXPORTS
-myquadprogInitialize
-myquadprogInitializeWithHandlers
-myquadprogTerminate
-myquadprogPrintStackTrace
-mlxMyquadprog
-
